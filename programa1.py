@@ -1,3 +1,4 @@
 print("Hola mundo")
 
-#comentario
+#comentarioc
+print("Hola mundo") print("Hola mundo") print("Hola")
